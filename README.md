@@ -3,7 +3,7 @@ CRM workflows, pipeline stages, and sales tracking notes.
 
 Focus:
 
--Salesforce usage
+- Salesforce usage
 - Lead tracking
 - Pipeline stages
 - Account management 
